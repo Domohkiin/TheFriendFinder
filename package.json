@@ -1,5 +1,5 @@
 {
-  "name": "friendfinder",
+  "name": "thefriendfinder",
   "version": "1.0.0",
   "description": "Helps you find the love you are looking for",
   "main": "server.js",
@@ -10,8 +10,5 @@
   },
   "scripts": {
     "start": "node server.js"
-  },
-  "devDependencies": {},
-  "author": "Dominic",
-  "license": "ISC"
+  }
 }
